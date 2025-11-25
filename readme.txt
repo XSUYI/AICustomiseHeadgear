@@ -1,0 +1,1 @@
+This repository contains the raw literature search results, screened results, and the final list of papers for the review article "Artificial Intelligence in Customising Head-Worn Products: A Systematic Literature Review".
